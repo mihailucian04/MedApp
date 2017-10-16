@@ -1,0 +1,11 @@
+C:\work\AspNetCore\MedApp\MedApp\MedApp.API\bin\Debug\netcoreapp1.1\MedApp.API.deps.json
+C:\work\AspNetCore\MedApp\MedApp\MedApp.API\bin\Debug\netcoreapp1.1\MedApp.API.runtimeconfig.json
+C:\work\AspNetCore\MedApp\MedApp\MedApp.API\bin\Debug\netcoreapp1.1\MedApp.API.runtimeconfig.dev.json
+C:\work\AspNetCore\MedApp\MedApp\MedApp.API\bin\Debug\netcoreapp1.1\MedApp.API.dll
+C:\work\AspNetCore\MedApp\MedApp\MedApp.API\obj\Debug\netcoreapp1.1\MedApp.API.csprojResolveAssemblyReference.cache
+C:\work\AspNetCore\MedApp\MedApp\MedApp.API\obj\Debug\netcoreapp1.1\MedApp.API.csproj.CoreCompileInputs.cache
+C:\work\AspNetCore\MedApp\MedApp\MedApp.API\obj\Debug\netcoreapp1.1\MedApp.API.AssemblyInfoInputs.cache
+C:\work\AspNetCore\MedApp\MedApp\MedApp.API\obj\Debug\netcoreapp1.1\MedApp.API.AssemblyInfo.cs
+C:\work\AspNetCore\MedApp\MedApp\MedApp.API\bin\Debug\netcoreapp1.1\MedApp.API.pdb
+C:\work\AspNetCore\MedApp\MedApp\MedApp.API\obj\Debug\netcoreapp1.1\MedApp.API.dll
+C:\work\AspNetCore\MedApp\MedApp\MedApp.API\obj\Debug\netcoreapp1.1\MedApp.API.pdb
